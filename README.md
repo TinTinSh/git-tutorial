@@ -4,3 +4,4 @@
 -fix-B
 -分支C
 --xxc
+--test
